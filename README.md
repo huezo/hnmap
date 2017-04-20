@@ -50,4 +50,6 @@ en mi caso es la 192.168.1.1
 [https://github.com/huezo/hnmap/releases](https://github.com/huezo/hnmap/releases)
 
 
+## Nota
 
+ **No Olvides Tenes Instalado el Paquete**   ``` nmap ``` 
