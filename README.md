@@ -24,7 +24,21 @@ Solo debes escribir un numero
 
 ![demo2][demo2]
 
+# IP Del Router
 
+Comando:
+```
+route
+```
+Aparece como :
+
+default         192.168.1.1
+
+en mi caso es la 192.168.1.1
+
+[route]:https://raw.githubusercontent.com/huezo/hnmap/master/route.png
+
+![route][route]
 
 
 # blog 
