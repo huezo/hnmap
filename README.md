@@ -52,4 +52,4 @@ en mi caso es la 192.168.1.1
 
 ## Nota
 
- **No Olvides Tenes Instalado el Paquete**   ``` nmap ``` 
+ **No Olvides Tener Instalado el Paquete**   ``` nmap ``` 
