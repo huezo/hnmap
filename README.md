@@ -53,3 +53,10 @@ en mi caso es la 192.168.1.1
 ## Nota
 
  **No Olvides Tener Instalado el Paquete**   ``` nmap ``` 
+ 
+ 
+ ## Wiki 
+ 
+ [https://github.com/huezo/hnmap/wiki](https://github.com/huezo/hnmap/wiki)
+ 
+ 
