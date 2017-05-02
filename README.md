@@ -42,37 +42,7 @@ en mi caso es la 192.168.1.1
 
 ## preparando debian Antes de usar el SCRIPT 
 
-// Configurar sudo
-
-```
-$ su
-
-# apt-get install sudo
-
-# usermod -a -G sudo $USER
-
-# groups $USER
-```
-"ahora podras usar sudo"
-
-
-// Configurar comandos ifconfig y route en Debian para que 
-// puedas ejecutarse como usuario no root 
-
-```
-#  ln -s /sbin/ifconfig /usr/bin/ifconfig
-
-
-  $ ifconfig
-
-
-# ln -s /sbin/route /usr/bin/route
-
-$ route
-
-```
-
-
+[https://github.com/huezo/hnmap/wiki/Debian](https://github.com/huezo/hnmap/wiki/Debian)
 
 
 # blog 
