@@ -40,9 +40,13 @@ en mi caso es la 192.168.1.1
 
 ![route][route]
 
+
+
 ## preparando debian Antes de usar el SCRIPT 
 
-## [https://github.com/huezo/hnmap/wiki/Debian](https://github.com/huezo/hnmap/wiki/Debian)
+ [https://github.com/huezo/hnmap/wiki/Debian](https://github.com/huezo/hnmap/wiki/Debian)
+
+
 
 
 # blog 
