@@ -8,7 +8,7 @@
 #
 #########
 
-
+clear
 echo "¿Qué quieres hacer?"
 echo " "
 echo " ------------------------------------------------------ "
@@ -24,11 +24,10 @@ read huezo
 if [ $huezo = 1 ];
 then
 
-echo " "
+clear
 
 sudo apt-get install nmap
 
-#sudo apt install nmap
 
 exit 0
 
@@ -36,11 +35,12 @@ exit 0
 elif [ $huezo = 2 ];
 then
 
+clear
 echo " Digita la IP del Router"
 echo " "
 
 read ip
-
+clear
 sudo nmap -sPn $ip-254
 
 exit 0
